@@ -1,0 +1,23 @@
+#menu ul
+{
+    list-style-type: none;
+}
+#menu ul li
+{
+    float:left;
+    margin-left:80px;
+    font-family:verdana;
+    color:grey;
+}
+#menu ul li a
+{
+    font-size:20px;
+    margin-top:10px;
+    display:block;
+    text-decoration: none;
+    color:darkcyan;
+}
+#menu ul li a:hover
+{
+    color:darkgray;
+}
